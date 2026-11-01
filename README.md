@@ -1,6 +1,7 @@
 # Snake Game in C
 A classic Snake game written in C using [raylib](https://www.raylib.com/).
 
+![Gameplay|324](images/gameplay2.png) ![Game over screen|342](images/gameplay1.png)
 ## Features
 - Classic snake movement and growth
 - Food spawning at random positions
